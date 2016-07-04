@@ -1,0 +1,31 @@
+2016-06-21 10:38:48,749 INFO [org.jasig.cas.services.DefaultServicesManagerImpl] - Loaded 2 services.
+2016-06-21 10:38:49,011 INFO [org.jasig.cas.CasEnvironmentContextListener] - 
+******************** Welcome to CAS ********************
+CAS Version: null
+Java Home: C:\Program Files\Java\jdk1.8.0_65\jre
+Java Vendor: Oracle Corporation
+Java Version: 1.8.0_65
+OS Architecture: amd64
+OS Name: Windows 7
+OS Version: 6.1
+*******************************************************
+
+2016-06-21 10:38:51,455 WARN [org.jasig.cas.util.BinaryCipherExecutor] - Secret key for signing is not defined. CAS will attempt to auto-generate the signing key
+2016-06-21 10:38:51,479 WARN [org.jasig.cas.util.BinaryCipherExecutor] - Generated signing key cotCMHOImOqe0clNZ4i87yx0LCuP-OYsYYRVY17FBEHVGfXsN9gDMKroACDBwGZW2Tx6hrq9OY_hTTFC9AjsVg of size 512. The generated key MUST be added to CAS settings.
+2016-06-21 10:38:51,480 WARN [org.jasig.cas.util.BinaryCipherExecutor] - No encryption key is defined. CAS will attempt to auto-generate keys
+2016-06-21 10:38:51,492 WARN [org.jasig.cas.util.BinaryCipherExecutor] - Generated encryption key FRMeJfNCfeVgCNIH of size 16. The generated key MUST be added to CAS settings.
+2016-06-21 10:38:51,665 WARN [org.jasig.cas.util.BaseStringCipherExecutor] - Secret key for encryption is not defined. CAS will attempt to auto-generate the encryption key
+2016-06-21 10:38:51,665 WARN [org.jasig.cas.util.BaseStringCipherExecutor] - Generated encryption key P1d_zO8DZ4ztlA3oX9OnfSz-0TvDtXJfIogwvK9dsbA of size 256. The generated key MUST be added to CAS settings.
+2016-06-21 10:38:51,666 WARN [org.jasig.cas.util.BaseStringCipherExecutor] - Secret key for signing is not defined. CAS will attempt to auto-generate the signing key
+2016-06-21 10:38:51,667 WARN [org.jasig.cas.util.BaseStringCipherExecutor] - Generated signing key YG4MWIAYPmudNCfpjQ2ohCID4ZcmkYEk1NwE6Zm3VBpa-5pi51E_FA330L328GTo5Bg0ydaAkLv8dtnUBNkPxg of size 512. The generated key MUST be added to CAS settings.
+2016-06-21 10:38:54,332 INFO [org.jasig.cas.util.AutowiringSchedulerFactoryBean] - Starting Quartz Scheduler now
+2016-06-21 10:38:56,144 INFO [org.jasig.cas.services.DefaultServicesManagerImpl] - Loaded 2 services.
+2016-06-21 10:38:58,013 WARN [org.jasig.cas.util.BinaryCipherExecutor] - Secret key for signing is not defined. CAS will attempt to auto-generate the signing key
+2016-06-21 10:38:58,014 WARN [org.jasig.cas.util.BinaryCipherExecutor] - Generated signing key fjAbVI6e51ZIGjNcq97PZwgTTnL4IicAXygoJlWUXZ6qlWFOcdfD15yd3h_e5T5__Vh_n1D8lomsr0ctWUa6QA of size 512. The generated key MUST be added to CAS settings.
+2016-06-21 10:38:58,015 WARN [org.jasig.cas.util.BinaryCipherExecutor] - No encryption key is defined. CAS will attempt to auto-generate keys
+2016-06-21 10:38:58,016 WARN [org.jasig.cas.util.BinaryCipherExecutor] - Generated encryption key LsbWwnHwCkpoKVoc of size 16. The generated key MUST be added to CAS settings.
+2016-06-21 10:38:58,117 WARN [org.jasig.cas.util.BaseStringCipherExecutor] - Secret key for encryption is not defined. CAS will attempt to auto-generate the encryption key
+2016-06-21 10:38:58,119 WARN [org.jasig.cas.util.BaseStringCipherExecutor] - Generated encryption key REHpPHx2QdKIzoJ95OvLok5oKBahZStubULlYPIzyuw of size 256. The generated key MUST be added to CAS settings.
+2016-06-21 10:38:58,121 WARN [org.jasig.cas.util.BaseStringCipherExecutor] - Secret key for signing is not defined. CAS will attempt to auto-generate the signing key
+2016-06-21 10:38:58,122 WARN [org.jasig.cas.util.BaseStringCipherExecutor] - Generated signing key UDINQFmIyeaPM5ihb1mQRXDwrrjG2-kKd_wHbqA57IfUE7mtHzvgpLdLlVZ2be8sIr30oRAhHg1ku6VEcr2Inw of size 512. The generated key MUST be added to CAS settings.
+2016-06-21 10:38:59,165 INFO [org.jasig.cas.util.AutowiringSchedulerFactoryBean] - Starting Quartz Scheduler now

@@ -8,7 +8,7 @@
 	<name>cas-client2</name>
 	<description>cas-client2</description>
 	<properties>
-		<spring.maven.artifact.version>4.2.6.RELEASE</spring.maven.artifact.version>
+		<spring.maven.artifact.version>5.2.22.RELEASE</spring.maven.artifact.version>
 		<spring.security.version>4.1.0.RELEASE</spring.security.version>
 	</properties>
 	<dependencies>
